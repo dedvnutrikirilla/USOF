@@ -1,0 +1,9 @@
+{
+    "loginLen": 40,
+    "passwordLen": 128,
+    "fullNameLen": 100,
+    "emailLen": 60,
+    "profilePicLen": 256,
+    "titleLen": 256,
+    "categoryLen": 40
+}
