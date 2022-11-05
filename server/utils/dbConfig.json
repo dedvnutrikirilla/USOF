@@ -1,0 +1,12 @@
+{
+    "database": "APINAMEDB",
+    "user": "APIserver",
+    "password" : "serverpass",
+    "params": {
+        "host": "localhost",
+        "dialect": "mysql",
+        "define": {
+            "freezeTableName": true
+        }
+    }
+}

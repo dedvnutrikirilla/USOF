@@ -1,0 +1,64 @@
+header nav{
+    position: relative;
+    right: 0;
+    width: auto;
+    height: 70px;
+    background-color: #ffffff;
+}
+
+header nav ul{
+    position: absolute;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    right: 30px;
+    top: 0;
+    display: block;
+}
+
+header nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+    line-height: 35px;
+}
+
+header a{
+    color: black;
+}
+
+.login, .register{
+    width: 70px;
+    height: 30px;
+    line-height: 30px;
+    border: 2px solid;
+    border-radius: 8px;
+    margin-right: 15px;
+}
+.login{
+    border-color: #000000;
+}
+.login:hover{
+    transition: 0.3s;
+    color: #ffffff;
+    background-color: #000000;
+}
+.login:hover a, .register:hover a{
+    color: #ffffff;
+}
+
+.register{
+    border-color: #472d0b;
+}
+
+.register:hover{
+    transition: 0.3s;
+    background-color: #472d0b;
+}
+
+.authorized{
+    display: inline-block;
+}
+
+.authorized .userName{
+    color: #535353;
+}

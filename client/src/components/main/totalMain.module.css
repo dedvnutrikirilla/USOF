@@ -1,0 +1,25 @@
+.mainMain{
+    width: 70vw;
+    min-height: 60vh;
+    margin-left: 30px;
+    position: relative;
+    left: 18vw;
+    display: inline-block;
+}
+
+.postList .postNav{
+    margin: 10px;
+    text-align: center;
+}
+
+.postList .postNav div{
+    display: inline-block;
+    margin: 10px;
+    width: 20px;
+    border: 2px solid #b1b1b1;
+    text-align: center;
+}
+
+.postList .postNav a{
+    color: #000000;  
+}

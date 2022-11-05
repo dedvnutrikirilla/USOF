@@ -1,0 +1,22 @@
+.totalSide{
+    width: 15vw;
+    height: 100vh;
+    background-color: #ffffff;
+    position: absolute;
+    display: inline-block;
+}
+
+.totalSide * {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.totalSide .miniUser{
+    margin: 20px 0 0 20px;
+}
+
+.totalSide .miniUser .profilePic {
+    width: 100px;
+    height:100px;
+    border-radius: 100%;
+}

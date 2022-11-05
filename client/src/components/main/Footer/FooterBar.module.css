@@ -1,0 +1,62 @@
+footer{
+    border-top: 5px solid #000000;
+    position: relative;
+    padding: 20px;
+}
+
+footer li{
+    display: inline-block;
+}
+
+footer a{
+    color: black;
+}
+
+.footChunk{
+    display: inline-block;
+    width: 200px;
+    margin: 40px 0 0 50px;
+}
+
+.contactIcons li{
+    display: inline-block;
+    width: 25px;
+    margin-top: 10px;
+    margin-right: 12px;
+}
+
+.infos{
+    width: 200px;
+    color: #535353;
+}
+
+.footNav {
+    width: 200px;
+    text-align: center;
+}
+.footNav ul{
+    list-style-type: none;
+}
+.footNav li{
+    margin: 10px;
+    display: inline-block;
+}
+
+.abouter{
+    width: 300px;
+    font-size: 0.8em;
+    position: absolute;
+    right: 40px;
+    top: 0;
+}
+.abouter p{
+    text-align: center;
+}
+
+.abouter ul {
+    list-style-type: none;
+}
+.abouter li {
+    list-style-type: none;
+    margin: 5px 0;
+}

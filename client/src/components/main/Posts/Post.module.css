@@ -1,0 +1,45 @@
+a{
+    text-decoration: none;
+}
+
+.post{
+    position: relative;
+    width: 65vw;
+    min-height: 10vh;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 1vw;
+    color: #000000;
+    background-color: #dbdbdb;
+    cursor:default;
+}
+
+.post .title{
+    max-width: 75%;
+    font-size: 1.4em;
+    margin: 0px 0px 0px 7px;
+}
+
+.post .publishDate{
+    position: absolute;
+    max-width: 20%;
+    right: 15px;
+    top: 15px;
+}
+
+.post .content{
+    margin: 20px 7px 7px 7px;
+    color: #535353;
+}
+
+.PostView .addComment{
+    background-color: #535353;
+    color: #ffffff;
+    font-size: 1em;
+    margin: 20px;
+    width: 90px;
+    height: 40px;
+    border: 4px solid #535353;
+    border-radius: 10px;
+}

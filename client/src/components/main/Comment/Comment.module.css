@@ -1,0 +1,25 @@
+.com{
+    position: relative;
+    width: 65vw;
+    min-height: 5vh;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #6e6e6e;
+    border-radius: 1vw;
+    color: #000000;
+    background-color: #ebebeb;
+    cursor:default;
+}
+
+.com .publishDate{
+    font-size: 0.8em;
+    position: absolute;
+    max-width: 20%;
+    right: 15px;
+    top: 15px;
+}
+
+.com .content{
+    margin: 30px 7px 7px 7px;
+    color: #535353;
+}
